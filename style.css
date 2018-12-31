@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(215,200,200)
+}
+
+h1 {
+  font-size: 36px
+}
+
+.famous_texts {
+  font-size: 16px;
+}
+.fillable {
+  width: 120px;
+  font-size: 16px;
+  padding: inherit;
+  background-color: rgb(255,210,210)
+}
+.long_fillable {
+  width: 600px;
+  font-size: 16px;
+  padding: inherit;
+  background-color: rgb(255,210,210)
+
+}
+
+#text_kaihua_out {
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  background-color: rgb(255,210,210)
+}
